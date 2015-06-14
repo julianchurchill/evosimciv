@@ -1,0 +1,13 @@
+{
+  "name": "PlebNation",
+  "author": "Julian Churchill <chewielouie03@gmail.com>",
+  "private": "true",
+  "devDependencies": {},
+  "dependencies": {
+    "ionic": "~1.0.0",
+    "angular": "~1.4.0",
+    "ngCordova": "~0.1.17-alpha",
+    "angular-resource": "~1.4.0",
+    "lodash": "~3.9.3"
+  }
+}
